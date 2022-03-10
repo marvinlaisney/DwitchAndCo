@@ -7,6 +7,7 @@ import { CarteComponent } from './carte/carte.component';
 import { LocalisationComponent } from './localisation/localisation.component';
 import { HomeComponent } from './home/home.component';
 import { NavbarComponent } from './navbar/navbar.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { NavbarComponent } from './navbar/navbar.component';
     NavbarComponent,
     CarteComponent,
     LocalisationComponent,
-    HomeComponent
+    HomeComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
