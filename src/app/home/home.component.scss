@@ -1,0 +1,49 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+}
+  
+.banner h2 {
+    margin: 0;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+    font-size: 32px;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.banner h1 {
+    color: white;
+    text-align: left;
+    font-size: 60px;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+    opacity: 0.8;
+    font-weight: bold;
+    margin: 0;
+}
+  
+.banner p {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    opacity: .8;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+.card {
+    position: relative;
+    opacity: 0.8;
+}
+
+.card-body p {
+    color: black;
+}
+
+.card-home {
+    position: relative;
+}
+
+
+  
