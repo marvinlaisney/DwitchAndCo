@@ -23,7 +23,7 @@ import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
     LocalisationComponent,
     HomeComponent,
     FooterComponent,
-    ContactComponent
+    ContactComponent,
   ],
   imports: [
     BrowserModule,
