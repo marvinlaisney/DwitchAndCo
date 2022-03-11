@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+/*
+.class{
+    background-image: url("foodTruck.jpg");
+}
+*/
+
+
+img {
+    width:100%;
+}
+.b { 
+    float: left;
+    overflow: hidden;
+    /*margin: 20px; */
+}
+.container{
+    margin: 40px;
+    
+}
+
+.Location2 {
+    display: flex;
+    align-items: center; 
+    justify-content:center;  
+}
+.l2{
+    margin: 10px;
+}
+.e-title {
+    font-size: 60px;
+    font-weight: 50px;
+    color: rgb(230,57,70);
+    position: relative;
+    text-align: center; 
+    margin-top: 50px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.j{
+    text-align: center;
+}
+
+.d{
+    box-shadow: 0 5px 20px rgb(5, 24, 36);
+    background-color:rgb(241,250,238);
+
+}
+
+#carouselExemple {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+
+
+/*  <div class="col-lg-6 col-md-12 col-sm-12 a b">
+                    <img src="foodTruck.jpg" alt="">
+                </div> */
